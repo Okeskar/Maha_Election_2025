@@ -36,3 +36,15 @@ error: Please commit or stash them.
 [2025-11-02 03:10:46] Selection cleared.
 [2025-11-02 03:11:08] Copied file into repo: 2021082435-150x150.jpg
 [2025-11-02 03:11:12] Staging changes...
+[2025-11-02 03:11:12] Staged changes.
+[2025-11-02 03:11:13] Committed: Add files/folders via GUI
+[2025-11-02 03:11:13] git pull (rebase) error: error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+[2025-11-02 03:11:18] Push completed successfully.
+[2025-11-02 03:11:18] Committed & pushed: Add files/folders via GUI
+[2025-11-02 03:11:50] Added 0 file(s) from explorer to selection.
+[2025-11-02 03:20:19] Repo selected: C:\Onkar\Swapnil\Election maps\Maha_Election_2025
+[2025-11-02 03:20:29] Added 1 file(s) from explorer to selection.
+[2025-11-02 03:20:42] Last commit before delete: 03a1a745f913575a1fe0ef78f9dfed6cbbfbc2ca
+[2025-11-02 03:20:42] Deleted local file: 2021082435-150x150.jpg
+[2025-11-02 03:20:42] Running: git -C C:\Onkar\Swapnil\Election maps\Maha_Election_2025 add .
