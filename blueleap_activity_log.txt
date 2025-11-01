@@ -3,3 +3,36 @@
 [2025-11-02 02:43:15] Last commit before delete: bc97a1790e3d54e9bae5022afeca2bbc3dee495c
 [2025-11-02 02:43:15] Deleted local file: Wardha\2021082435-150x150.jpg
 [2025-11-02 02:43:15] Running: git -C C:\Onkar\Swapnil\Election maps\Maha_Election_2025 add .
+[2025-11-02 02:43:16] Running: git -C C:\Onkar\Swapnil\Election maps\Maha_Election_2025 commit -m Delete files via Blueleap GUI
+[2025-11-02 02:43:16] [main 2a82004] Delete files via Blueleap GUI
+ 2 files changed, 5 insertions(+), 3 deletions(-)
+ delete mode 100644 Wardha/2021082435-150x150.jpg
+ create mode 100644 blueleap_activity_log.txt
+[2025-11-02 02:43:16] Running: git -C C:\Onkar\Swapnil\Election maps\Maha_Election_2025 pull origin main --rebase
+[2025-11-02 02:43:16] error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+[2025-11-02 02:43:16] Git pull (rebase) returned an error: Command git -C C:\Onkar\Swapnil\Election maps\Maha_Election_2025 pull origin main --rebase failed with exit 128. See log.
+[2025-11-02 02:43:16] Running: git -C C:\Onkar\Swapnil\Election maps\Maha_Election_2025 push origin main
+[2025-11-02 02:43:20] To https://github.com/Okeskar/Maha_Election_2025.git
+   bc97a17..2a82004  main -> main
+[2025-11-02 02:43:20] Push completed successfully.
+[2025-11-02 02:59:11] Repo selected: C:\Onkar\Swapnil\Election maps\Maha_Election_2025
+[2025-11-02 02:59:11] Repo selected: C:\Onkar\Swapnil\Election maps\Maha_Election_2025
+[2025-11-02 03:00:20] Added 0 file(s) from explorer to selection.
+[2025-11-02 03:00:29] Refreshed repository view.
+[2025-11-02 03:00:39] Checked out branch: main
+[2025-11-02 03:00:55] Refreshed repository view.
+[2025-11-02 03:01:31] Copied file into repo: 2021082435-150x150.jpg
+[2025-11-02 03:01:48] User skipped copying folder (exists).
+[2025-11-02 03:02:04] Added 0 file(s) from explorer to selection.
+[2025-11-02 03:02:16] Added 0 file(s) from explorer to selection.
+[2025-11-02 03:02:27] Pull completed.
+[2025-11-02 03:02:27] Already up to date.
+[2025-11-02 03:02:46] Added 0 file(s) from explorer to selection.
+[2025-11-02 03:10:43] Selection cleared.
+[2025-11-02 03:10:44] Selection cleared.
+[2025-11-02 03:10:44] Selection cleared.
+[2025-11-02 03:10:45] Selection cleared.
+[2025-11-02 03:10:46] Selection cleared.
+[2025-11-02 03:11:08] Copied file into repo: 2021082435-150x150.jpg
+[2025-11-02 03:11:12] Staging changes...
