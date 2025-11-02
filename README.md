@@ -1,2 +1,36 @@
 # Maha_Election_2025
 Maharashtra General Election Ward Map 2025
+http://nmmc.gov.in
+https://amc.gov.in
+https://amcakola.in
+https://amravaticorporation.in
+https://app.nmmconline.in
+https://cdn.s3waas.gov.in
+https://dm.mcgm.gov.in
+https://drive.google.com
+https://election.nagpurnmc.in
+https://gondia.gov.in
+https://ichalkaranjimnp.in
+https://kbmc.gov.in
+https://kdmc.gov.in
+https://malegaoncorporation.org
+https://mclatur.org
+https://nmc.gov.in
+https://nwcmc.gov.in
+https://pcmcparbhani.org
+https://portal.mcgm.gov.in
+https://smkc.gov.in
+https://vvcmc.in
+https://wardha.gov.in
+https://web.cmcchandrapur.com
+https://web.kolhapurcorporation.gov.in
+https://www.bncmc.gov.in
+https://www.googleapis.com
+https://www.jcmc.gov.in
+https://www.mbmc.gov.in
+https://www.panvelcorporation.com
+https://www.pcmcindia.gov.in
+https://www.pmc.gov.in
+https://www.satara.gov.in
+https://www.solapurcorporation.gov.in
+https://www.umc.gov.in
