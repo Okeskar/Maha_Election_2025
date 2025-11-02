@@ -1,5 +1,6 @@
 # Maha_Election_2025
 Maharashtra General Election Ward Map 2025
+
 http://nmmc.gov.in
 
 https://amc.gov.in
@@ -65,4 +66,5 @@ https://www.pmc.gov.in
 https://www.satara.gov.in
 
 https://www.solapurcorporation.gov.in
+
 https://www.umc.gov.in
