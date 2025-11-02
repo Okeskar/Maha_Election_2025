@@ -48,3 +48,15 @@ error: Please commit or stash them.
 [2025-11-02 03:20:42] Last commit before delete: 03a1a745f913575a1fe0ef78f9dfed6cbbfbc2ca
 [2025-11-02 03:20:42] Deleted local file: 2021082435-150x150.jpg
 [2025-11-02 03:20:42] Running: git -C C:\Onkar\Swapnil\Election maps\Maha_Election_2025 add .
+[2025-11-02 03:20:42] Running: git -C C:\Onkar\Swapnil\Election maps\Maha_Election_2025 commit -m Delete files via Blueleap GUI
+[2025-11-02 03:20:43] [main 5c06fda] Delete files via Blueleap GUI
+ 2 files changed, 12 insertions(+), 3 deletions(-)
+ delete mode 100644 2021082435-150x150.jpg
+[2025-11-02 03:20:43] Running: git -C C:\Onkar\Swapnil\Election maps\Maha_Election_2025 pull origin main --rebase
+[2025-11-02 03:20:43] error: cannot pull with rebase: You have unstaged changes.
+error: Please commit or stash them.
+[2025-11-02 03:20:43] Git pull (rebase) returned an error: Command git -C C:\Onkar\Swapnil\Election maps\Maha_Election_2025 pull origin main --rebase failed with exit 128. See log.
+[2025-11-02 03:20:43] Running: git -C C:\Onkar\Swapnil\Election maps\Maha_Election_2025 push origin main
+[2025-11-02 03:20:46] To https://github.com/Okeskar/Maha_Election_2025.git
+   03a1a74..5c06fda  main -> main
+[2025-11-02 03:20:46] Push completed successfully.
